@@ -1,4 +1,4 @@
-package Ex2;
+
 
 public abstract class Vehicule {
     private String marque;

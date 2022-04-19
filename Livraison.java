@@ -1,4 +1,3 @@
-package Ex1;
 public class Livraison implements Livreur {
 
     @Override
